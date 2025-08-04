@@ -16,7 +16,7 @@ Veri seti Kaggle üzerinden temin edilmiştir:
 
 ## 🧠 Proje Yapısı
 
-
+```bash
 Doctor_ques_answer/
 │
 ├── englishData.py              # Streamlit arayüzü (eğitilen modeli çağırır)
@@ -24,7 +24,7 @@ Doctor_ques_answer/
 ├── NLP_Sent_Anlyz.ipynb        # NLP mantığını anlatan basit duygu analizi
 ├── streamlit-arayüz.ipynb      # Streamlit arayüzünün notebook versiyonu
 
-
+```
 
 ## Kullanılan Teknolojiler:
 
