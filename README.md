@@ -43,11 +43,11 @@ Model: t5-base
 
 * Ortam: Google Colab
 
-*Eğitim dosyası: englishData_colab.ipynb
+* Eğitim dosyası: englishData_colab.ipynb
 
-*Eğitilen model repoya dahil edilmedi.
+* Eğitilen model repoya dahil edilmedi.
 
-*Modeli yeniden eğitmek isteyenler, Colab dosyasını kullanarak veri seti ile birlikte sıfırdan model oluşturabilirler.
+* Modeli yeniden eğitmek isteyenler, Colab dosyasını kullanarak veri seti ile birlikte sıfırdan model oluşturabilirler.
 
 
 ## NLP’ye Giriş (Ekstra):
